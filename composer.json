@@ -1,5 +1,5 @@
 {
-    "name": "league/glide-laravel",
+    "name": "muath-ye/glide-laravel",
     "description": "Glide adapter for Laravel",
     "homepage": "http://glide.thephpleague.com",
     "license": "MIT",
@@ -14,8 +14,8 @@
         "league/glide-symfony": "^1.0"
     },
     "require-dev": {
-        "mockery/mockery": "^0.9",
-        "phpunit/phpunit": "^4.0"
+        "mockery/mockery": "^0.0|^1.0|dev-master",
+        "phpunit/phpunit": "^6.1|^9.5.10|^10.5"
     },
     "autoload": {
         "psr-4": {
